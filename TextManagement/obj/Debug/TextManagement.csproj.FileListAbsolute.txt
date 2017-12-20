@@ -1,0 +1,7 @@
+D:\VS2015\Projects\Resolvit\TextManagement\bin\Debug\TextManagement.dll
+D:\VS2015\Projects\Resolvit\TextManagement\bin\Debug\TextManagement.pdb
+D:\VS2015\Projects\Resolvit\TextManagement\obj\Debug\TextManagement.csprojResolveAssemblyReference.cache
+D:\VS2015\Projects\Resolvit\TextManagement\obj\Debug\TextManagement.dll
+D:\VS2015\Projects\Resolvit\TextManagement\obj\Debug\TextManagement.pdb
+D:\VS2015\Projects\Resolvit\TextManagement\bin\Debug\Newtonsoft.Json.dll
+D:\VS2015\Projects\Resolvit\TextManagement\bin\Debug\Newtonsoft.Json.xml

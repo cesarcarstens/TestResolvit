@@ -1,0 +1,11 @@
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\ParagraphAnalyser.exe.config
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\TextToAnalyse.txt
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\ParagraphAnalyser.exe
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\ParagraphAnalyser.pdb
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\TextManagement.dll
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\TextManagement.pdb
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\obj\Debug\ParagraphAnalyser.csprojResolveAssemblyReference.cache
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\obj\Debug\ParagraphAnalyser.exe
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\obj\Debug\ParagraphAnalyser.pdb
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\Newtonsoft.Json.dll
+D:\VS2015\Projects\Resolvit\ParagraphAnalyser\bin\Debug\Newtonsoft.Json.xml

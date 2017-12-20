@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextManagement", "TextManagement\TextManagement.csproj", "{FE9996EA-458A-40CF-A992-D4ED023D54F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParagraphAnalyser", "ParagraphAnalyser\ParagraphAnalyser.csproj", "{9C520542-3387-4BFD-B592-FDB4C3875128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9996EA-458A-40CF-A992-D4ED023D54F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9996EA-458A-40CF-A992-D4ED023D54F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9996EA-458A-40CF-A992-D4ED023D54F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9996EA-458A-40CF-A992-D4ED023D54F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C520542-3387-4BFD-B592-FDB4C3875128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C520542-3387-4BFD-B592-FDB4C3875128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C520542-3387-4BFD-B592-FDB4C3875128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C520542-3387-4BFD-B592-FDB4C3875128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
